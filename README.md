@@ -1,5 +1,5 @@
 #### DSWeatherApp
-A weather GUI that gives you the 
+A weather GUI using JSON that gives you the 
 temperature, windspeed, and humidity 
 from the location you enter
 
